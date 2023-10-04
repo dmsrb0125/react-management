@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-management/static/js/main.ea2e3535.js",
+    "index.html": "/react-management/index.html",
+    "main.ea2e3535.js.map": "/react-management/static/js/main.ea2e3535.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ea2e3535.js"
+  ]
+}
